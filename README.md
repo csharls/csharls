@@ -26,6 +26,11 @@
 ### Mis blog posts mas recientes
 #
 <!-- BLOG-POST-LIST:START -->
+- [Auto ajustar tamaño de imagen usando CSS](https://charlescode.wordpress.com/2015/08/06/auto-ajustar-tamano-de-imagen-usando-css/)
+- [Pop-ups utilizando data-attibute y CSS](https://charlescode.wordpress.com/2015/08/06/pop-ups-utilizando-data-attibute-y-css/)
+- [Conociendo Java – Herencia (parte II) – Sobreescritura](https://charlescode.wordpress.com/2015/08/06/conociendo-java-herencia-parte-ii-sobreescritura/)
+- [Los números de 2014 en CsharlesCode](https://charlescode.wordpress.com/2014/12/30/los-numeros-de-2014/)
+- [Conociendo Java – Herencia (parte I) : Polimorfismo en tiempo de ejecución](https://charlescode.wordpress.com/2014/09/29/conociendo-java-herencia-parte-i-polimorfismo-en-tiempo-de-ejecucion/)
 <!-- BLOG-POST-LIST:END -->
 
 
