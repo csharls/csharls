@@ -6,14 +6,14 @@
 👨‍🏫 **part-time teacher**  
 
 ### En la web
-[<img src="https://img.shields.io/website?label=csharlscode&url=https%3A%2F%2Fcharlescode.wordpress.com"/>](website)  
-[<img src="https://img.shields.io/stackexchange/stackoverflow/r/2096394?order=desc&sort=reputation&site=stackoverflow?style=plastic"/>](stackoverflow)
+[<img src="https://img.shields.io/website?label=csharlscode&url=https%3A%2F%2Fcharlescode.wordpress.com"/>](https://charlescode.wordpress.com)  
+[<img src="https://img.shields.io/stackexchange/stackoverflow/r/2096394?order=desc&sort=reputation&site=stackoverflow?style=plastic"/>](https://stackoverflow.com/users/2096394/csharls)
 
 #
 ### Formas de contacto  
 
-[<img src="https://img.icons8.com/android/24/000000/twitter.png"/>](twitter) 
-[<img src="https://img.icons8.com/android/24/000000/linkedin.png"/>](linkedin)
+[<img src="https://img.icons8.com/android/24/000000/twitter.png"/>](https://twitter.com/csharls) 
+[<img src="https://img.icons8.com/android/24/000000/linkedin.png"/>](www.linkedin.com/in/csharls)
 
 #
 ### Github Stats
