@@ -26,9 +26,9 @@
 ### Mis blog posts mas recientes
 #
 <!-- BLOG-POST-LIST:START -->
+- [Funciones para Arreglos en PHP](https://charlescode.wordpress.com/2021/06/15/funciones-para-arreglos-en-php/)
+- [Subiendo imágenes a dropbox con PHP](https://charlescode.wordpress.com/2021/02/17/subiendo-imagenes-a-dropbox-con-php/)
 - [Maquetado con CSS grid](https://charlescode.wordpress.com/2020/10/24/maquetado-con-css-grid/)
 - [Auto ajustar tamaño de imagen usando CSS](https://charlescode.wordpress.com/2015/08/06/auto-ajustar-tamano-de-imagen-usando-css/)
 - [Pop-ups utilizando data-attibute y CSS](https://charlescode.wordpress.com/2015/08/06/pop-ups-utilizando-data-attibute-y-css/)
-- [Conociendo Java – Herencia (parte II) – Sobreescritura](https://charlescode.wordpress.com/2015/08/06/conociendo-java-herencia-parte-ii-sobreescritura/)
-- [Los números de 2014 en CsharlesCode](https://charlescode.wordpress.com/2014/12/30/los-numeros-de-2014/)
 <!-- BLOG-POST-LIST:END -->
