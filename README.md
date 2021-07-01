@@ -18,9 +18,9 @@
 #
 ### Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSharles&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csharles&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CSharles)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=csharles)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 ### Mis blog posts mas recientes
