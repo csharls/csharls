@@ -26,9 +26,9 @@
 ### Mis blog posts mas recientes
 #
 <!-- BLOG-POST-LIST:START -->
+- [Encontrar el valor mas alto en un array](https://charlescode.wordpress.com/2021/07/17/encontrar-el-valor-mas-alto-en-un-array/)
+- [Servidor web con Node.js](https://charlescode.wordpress.com/2021/07/14/servidor-web-con-node-js/)
 - [Animaciones en CSS](https://charlescode.wordpress.com/2021/06/28/animaciones-en-css/)
 - [Funciones para Arreglos en PHP](https://charlescode.wordpress.com/2021/06/15/funciones-para-arreglos-en-php/)
 - [Subiendo imágenes a dropbox con PHP](https://charlescode.wordpress.com/2021/02/17/subiendo-imagenes-a-dropbox-con-php/)
-- [Maquetado con CSS grid](https://charlescode.wordpress.com/2020/10/24/maquetado-con-css-grid/)
-- [Auto ajustar tamaño de imagen usando CSS](https://charlescode.wordpress.com/2015/08/06/auto-ajustar-tamano-de-imagen-usando-css/)
 <!-- BLOG-POST-LIST:END -->
