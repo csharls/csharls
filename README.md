@@ -1,16 +1,16 @@
 # Carlos Garcia
 
-💻 **Ingeniero en sistemas**  
-🖋 **Generador de contenido**  
-🏎 **Fan de formula 1**  
+💻 **System Engineer**  
+🖋 **Tech Blogger**  
 👨‍🏫 **part-time teacher**  
+🏎 **Fan de formula 1**
 
-### En la web
+### On the web
 [<img src="https://img.shields.io/website?label=csharlscode&url=https%3A%2F%2Fcharlescode.wordpress.com"/>](https://charlescode.wordpress.com)  
 [<img src="https://img.shields.io/stackexchange/stackoverflow/r/2096394?order=desc&sort=reputation&site=stackoverflow?style=plastic"/>](https://stackoverflow.com/users/2096394/csharls)
 
 #
-### Formas de contacto  
+### Conctact me
 
 [<img src="https://img.icons8.com/android/24/000000/twitter.png"/>](https://twitter.com/csharls) 
 [<img src="https://img.icons8.com/android/24/000000/linkedin.png"/>](https://linkedin.com/in/csharls)
@@ -23,7 +23,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=csharls)](https://github.com/anuraghazra/github-readme-stats)  
 
 
-### Mis blog posts mas recientes
+### Recent blog post (Spanish)
 #
 <!-- BLOG-POST-LIST:START -->
 - [Encontrar el valor mas alto en un array](https://charlescode.wordpress.com/2021/07/17/encontrar-el-valor-mas-alto-en-un-array/)
